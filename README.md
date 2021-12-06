@@ -1,5 +1,8 @@
 # Blog
 
+Based on [NimblePublisher](https://elixirschool.com/en/lessons/misc/nimble_publisher)
+TODO: [Syntax highlighting](https://elixirschool.com/en/lessons/misc/nimble_publisher#syntax-highlighting-11)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
